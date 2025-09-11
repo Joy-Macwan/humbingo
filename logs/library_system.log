@@ -1,0 +1,13 @@
+2025-09-11 07:33:48,011 - INFO - User authenticated: admin@library.com
+2025-09-11 07:33:48,019 - ERROR - Error saving book: 'sqlite3.Connection' object has no attribute 'lastrowid'
+2025-09-11 07:34:53,417 - INFO - User authenticated: admin@library.com
+2025-09-11 07:34:53,417 - ERROR - ISBN already exists: 9781234567890
+2025-09-11 07:39:55,302 - INFO - User authenticated: admin@library.com
+2025-09-11 07:46:22,362 - WARNING - Authentication failed for: joy
+2025-09-11 07:46:49,725 - INFO - User authenticated: admin@library.com
+2025-09-11 07:51:08,022 - INFO - New book created: The Power Of Your Subconcious Mind
+2025-09-11 08:05:53,722 - INFO - User authenticated: admin@library.com
+2025-09-11 08:08:48,495 - INFO - User authenticated: admin@library.com
+2025-09-11 08:10:11,568 - INFO - User authenticated: admin@library.com
+2025-09-11 08:14:21,878 - INFO - User authenticated: admin@library.com
+2025-09-11 08:15:00,140 - INFO - User authenticated: admin@library.com
